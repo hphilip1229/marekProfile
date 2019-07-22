@@ -1,0 +1,11 @@
+div{
+  text-align: left}
+body{ background-color: green;font-family:"helvetica";
+
+}
+img{
+  margin: 5px;
+  display: inline-flex;
+  height: 250px;
+  width: auto;
+}
